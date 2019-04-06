@@ -1,0 +1,7 @@
+C:\Users\a-erm\OneDrive\Рабочий стол\clnserver\udpclient\bin\Debug\udpserver.exe.config
+C:\Users\a-erm\OneDrive\Рабочий стол\clnserver\udpclient\bin\Debug\udpserver.exe
+C:\Users\a-erm\OneDrive\Рабочий стол\clnserver\udpclient\bin\Debug\udpserver.pdb
+C:\Users\a-erm\OneDrive\Рабочий стол\clnserver\udpclient\obj\Debug\udpserver.csprojAssemblyReference.cache
+C:\Users\a-erm\OneDrive\Рабочий стол\clnserver\udpclient\obj\Debug\udpserver.csproj.CoreCompileInputs.cache
+C:\Users\a-erm\OneDrive\Рабочий стол\clnserver\udpclient\obj\Debug\udpserver.exe
+C:\Users\a-erm\OneDrive\Рабочий стол\clnserver\udpclient\obj\Debug\udpserver.pdb

@@ -1,0 +1,6 @@
+C:\Users\a-erm\OneDrive\Рабочий стол\clnserver\udpclient\bin\Debug\udpclient.exe.config
+C:\Users\a-erm\OneDrive\Рабочий стол\clnserver\udpclient\bin\Debug\udpclient.exe
+C:\Users\a-erm\OneDrive\Рабочий стол\clnserver\udpclient\bin\Debug\udpclient.pdb
+C:\Users\a-erm\OneDrive\Рабочий стол\clnserver\udpclient\obj\Debug\udpclient.csproj.CoreCompileInputs.cache
+C:\Users\a-erm\OneDrive\Рабочий стол\clnserver\udpclient\obj\Debug\udpclient.exe
+C:\Users\a-erm\OneDrive\Рабочий стол\clnserver\udpclient\obj\Debug\udpclient.pdb
